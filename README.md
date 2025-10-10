@@ -1,0 +1,2 @@
+# canary
+XSS Canary
