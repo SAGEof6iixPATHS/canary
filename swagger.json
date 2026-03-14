@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/SAGEof6iixPATHS/canary/refs/heads/main/swagger.yaml",
+    "url": "https://sageof6iixpaths.github.io/canary/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/SAGEof6iixPATHS/canary/refs/heads/main/swagger.yaml",
+            "url": "https://sageof6iixpaths.github.io/canary/swagger.yaml",
             "name": "Foo"
         }
     ]
