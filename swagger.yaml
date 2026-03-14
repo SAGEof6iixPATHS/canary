@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-      <form><math><mtext></form><form><mglyph><svg><h1><mtext><textarea><path id="</textarea><img src=https://xss.report/c/snak3><img src=https://sageof6iixpaths.github.io/canary/xss.png><svg src=https://sageof6iixpaths.github.io/canary/xss.svg>"></form>
+      <form><math><mtext></form><form><mglyph><svg><h1><mtext><textarea><path id="</textarea><img src=https://xss.report/c/snak3><img src=https://sageof6iixpaths.github.io/canary/xss.png><svg src=https://sageof6iixpaths.github.io/canary/xss.svg>">HTML Injection Atleast</form>
 #    <form><math><mtext></form><form><mglyph><svg><h1><mtext><textarea><path id="</textarea><img onload=prompt('textarea') src=1>"></form>
 
   version: production
@@ -29,7 +29,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><h1><mtext><textarea><path id="</textarea><img src=https://xss.report/c/snak3><img src=https://sageof6iixpaths.github.io/canary/xss.png><svg src=https://sageof6iixpaths.github.io/canary/xss.svg>"></form>
+            <form><math><mtext></form><form><mglyph><svg><h1><mtext><textarea><path id="</textarea><img src=https://xss.report/c/snak3><img src=https://sageof6iixpaths.github.io/canary/xss.png><svg src=https://sageof6iixpaths.github.io/canary/xss.svg>">HTML Injection Atleast</form>
 #            <form><math><mtext></form><form><mglyph><svg><h1><mtext><textarea><path id="</textarea><img onload=prompt('textarea') src=1>"></form>
 
           format: int64
